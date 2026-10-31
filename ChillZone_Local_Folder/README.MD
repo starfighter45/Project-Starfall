@@ -28,3 +28,4 @@ Open **http://localhost:3000** in your browser. Do not open `index.html` directl
 - The server binds only to `127.0.0.1`, so it listens on your own computer, not your local network.
 - API usage can cost money. Set usage limits/budget alerts in your OpenAI account.
 - The existing `chillzone-auto-blob-bootstrap` script in `index.html` is preserved byte-for-byte. It activates only on the specified GitHub Pages URL, so local VS Code testing is served from `http://localhost:3000` without changing that bootstrap.
+
