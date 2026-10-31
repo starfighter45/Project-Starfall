@@ -1,0 +1,8 @@
+{
+  "name": "chillzone-ai-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-only ChillZone AI backend for VS Code",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
